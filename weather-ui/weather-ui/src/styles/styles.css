@@ -1,0 +1,19 @@
+/* src/styles.css */
+input[type="text"] {
+  margin: 5px;
+  padding: 5px;
+  width: 150px;
+}
+
+button {
+  padding: 10px 20px;
+  margin-top: 20px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049;
+}

@@ -1,0 +1,62 @@
+version: '3.9'
+
+services:
+
+  weatherapp-db:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_PASSWORD: 123456
+      POSTGRES_USER: postgres
+      POSTGRES_DB: weather_data
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    networks:
+      app_net:
+  
+
+  adminer:
+    image: adminer
+    restart: always
+    ports:
+      - "8080:8080"
+    networks:
+      app_net:
+
+  backend:
+    build:
+      context: ./WeatherApp
+      dockerfile: Dockerfile
+    ports:
+      - "5000:5000"
+    environment:
+      - DB_HOST=weatherapp-db
+      - DB_PORT=5432
+      - DB_USER=postgres
+      - DB_PASSWORD=123456
+      - DB_NAME=weather_data
+    depends_on:
+      - weatherapp-db
+    networks:
+      app_net:
+
+  frontend:
+    build:
+      context: ./weather-ui/weather-ui
+      dockerfile: Dockerfile
+    ports:
+      - "5173:5173"
+    depends_on:
+      - backend
+    networks:
+      app_net:
+
+volumes:
+  postgres_data:
+
+networks:
+  app_net:
+

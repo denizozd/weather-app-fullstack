@@ -1,0 +1,525 @@
+{
+"cities": [
+	{
+		"id" : 81,
+		"name" : "Ludwigshafen, Germany",
+		"latitude" : 49.477409,
+		"longitude" : 8.44518
+	},
+	{
+		"id" : 82,
+		"name" : "Frankfurt, Germany",
+		"latitude" : 50.110924,
+		"longitude" : 8.682127
+	},
+	{
+		"id" : 83,
+		"name" : "Leipzig, Germany",
+		"latitude" : 51.340199,
+		"longitude" : 12.360103
+	},
+	{
+		"id" : 84,
+		"name" : "Wuppertal, Germany",
+		"latitude" : 51.256214,
+		"longitude" : 7.150764
+	},
+	{
+		"id" : 85,
+		"name" : "Fulda, Germany",
+		"latitude" : 50.555809,
+		"longitude" : 9.680845
+	},
+	{
+		"id" : 86,
+		"name" : "Heidelberg Old City, Germany",
+		"latitude" : 49.39875,
+		"longitude" : 8.672434
+	},
+	{
+		"id" : 87,
+		"name" : "Koblenz, Germany",
+		"latitude" : 50.360023,
+		"longitude" : 7.589907
+	},
+	{
+		"id" : 49,
+		"name" : "Freiburg, Baden-Württemberg, Germany",
+		"latitude" : 47.9959,
+		"longitude" : 7.85222
+	},
+	{
+		"id" : 58,
+		"name" : "Bochum, North Rhine-Westphalia, Germany",
+		"latitude" : 51.48165,
+		"longitude" : 7.21648
+	},
+	{
+		"id" : 62,
+		"name" : "Wolfsburg, Lower Saxony, Germany",
+		"latitude" : 52.42452,
+		"longitude" : 10.7815
+	},
+	{
+		"id" : 63,
+		"name" : "Dortmund, Germany",
+		"latitude" : 51.51494,
+		"longitude" : 7.466
+	},
+	{
+		"id" : 67,
+		"name" : "Wernigerode, Germany",
+		"latitude" : 51.83652,
+		"longitude" : 10.78216
+	},
+	{
+		"id" : 68,
+		"name" : "Hanover, Lower Saxony, Germany",
+		"latitude" : 52.37052,
+		"longitude" : 9.73322
+	},
+	{
+		"id" : 70,
+		"name" : "Regensburg, Bavaria, Germany",
+		"latitude" : 49.01513,
+		"longitude" : 12.10161
+	},
+	{
+		"id" : 72,
+		"name" : "Munich, Bavaria, Germany",
+		"latitude" : 48.13743,
+		"longitude" : 11.57549
+	},
+	{
+		"id" : 74,
+		"name" : "Nuremberg, Germany",
+		"latitude" : 49.45421,
+		"longitude" : 11.07752
+	},
+	{
+		"id" : 75,
+		"name" : "Hamburg, Germany",
+		"latitude" : 51.33962,
+		"longitude" : 12.37129
+	},
+	{
+		"id" : 76,
+		"name" : "Hilden, Germany",
+		"latitude" : 53.55073,
+		"longitude" : 9.99302
+	},
+	{
+		"id" : 77,
+		"name" : "Solingen, Germany",
+		"latitude" : 50.11552,
+		"longitude" : 8.68417
+	},
+	{
+		"id" : 78,
+		"name" : "Moers, Germany",
+		"latitude" : 51.18539,
+		"longitude" : 6.44172
+	},
+	{
+		"id" : 79,
+		"name" : "Göttingen, Germany",
+		"latitude" : 53.86893,
+		"longitude" : 10.68729
+	},
+	{
+		"id" : 80,
+		"name" : "Wiesbaden, Germany",
+		"latitude" : 51.22172,
+		"longitude" : 6.77616
+	},
+	{
+		"id" : 1,
+		"name" : "Salzgitter, Lower Saxony, Germany",
+		"latitude" : 52.15705,
+		"longitude" : 10.4154
+	},
+	{
+		"id" : 2,
+		"name" : "Hildesheim, Lower Saxony, Germany",
+		"latitude" : 52.15077,
+		"longitude" : 9.95112
+	},
+	{
+		"id" : 3,
+		"name" : "Siegen, North Rhine-Westphalia, Germany",
+		"latitude" : 50.87481,
+		"longitude" : 8.02431
+	},
+	{
+		"id" : 4,
+		"name" : "Erlangen, Bavaria, Germany",
+		"latitude" : 49.59099,
+		"longitude" : 11.00783
+	},
+	{
+		"id" : 5,
+		"name" : "Remscheid, North Rhine-Westphalia, Germany",
+		"latitude" : 51.17983,
+		"longitude" : 7.1925
+	},
+	{
+		"id" : 6,
+		"name" : "Jena, Thuringia, Germany",
+		"latitude" : 50.92878,
+		"longitude" : 11.5899
+	},
+	{
+		"id" : 7,
+		"name" : "Bergisch Gladbach, North Rhine-Westphalia, Germany",
+		"latitude" : 50.9856,
+		"longitude" : 7.13298
+	},
+	{
+		"id" : 8,
+		"name" : "Reutlingen, Baden-Württemberg, Germany",
+		"latitude" : 48.49144,
+		"longitude" : 9.20427
+	},
+	{
+		"id" : 9,
+		"name" : "Bremerhaven, Bremen, Germany",
+		"latitude" : 53.53615,
+		"longitude" : 8.59298
+	},
+	{
+		"id" : 10,
+		"name" : "Recklinghausen, North Rhine-Westphalia, Germany",
+		"latitude" : 51.61379,
+		"longitude" : 7.19738
+	},
+	{
+		"id" : 11,
+		"name" : "Trier, Rhineland-Palatinate, Germany",
+		"latitude" : 49.75565,
+		"longitude" : 6.63935
+	},
+	{
+		"id" : 12,
+		"name" : "Bottrop, North Rhine-Westphalia, Germany",
+		"latitude" : 51.52392,
+		"longitude" : 6.9285
+	},
+	{
+		"id" : 13,
+		"name" : "Pforzheim, Baden-Württemberg, Germany",
+		"latitude" : 48.88436,
+		"longitude" : 8.69892
+	},
+	{
+		"id" : 14,
+		"name" : "Heilbronn, Baden-Württemberg, Germany",
+		"latitude" : 49.13995,
+		"longitude" : 9.22054
+	},
+	{
+		"id" : 15,
+		"name" : "Ulm, Baden-Württemberg, Germany",
+		"latitude" : 48.39841,
+		"longitude" : 9.99155
+	},
+	{
+		"id" : 16,
+		"name" : "Offenbach am Main, Hesse, Germany",
+		"latitude" : 50.10061,
+		"longitude" : 8.76647
+	},
+	{
+		"id" : 18,
+		"name" : "Würzburg, Bavaria, Germany",
+		"latitude" : 49.79391,
+		"longitude" : 9.95121
+	},
+	{
+		"id" : 19,
+		"name" : "Ingolstadt, Bavaria, Germany",
+		"latitude" : 48.76508,
+		"longitude" : 11.42372
+	},
+	{
+		"id" : 20,
+		"name" : "Paderborn, North Rhine-Westphalia, Germany",
+		"latitude" : 51.71905,
+		"longitude" : 8.75439
+	},
+	{
+		"id" : 21,
+		"name" : "Neuss, North Rhine-Westphalia, Germany",
+		"latitude" : 51.19807,
+		"longitude" : 6.68504
+	},
+	{
+		"id" : 22,
+		"name" : "Herne, North Rhine-Westphalia, Germany",
+		"latitude" : 51.5388,
+		"longitude" : 7.22572
+	},
+	{
+		"id" : 23,
+		"name" : "Osnabrück, Lower Saxony, Germany",
+		"latitude" : 52.27264,
+		"longitude" : 8.0498
+	},
+	{
+		"id" : 24,
+		"name" : "Leverkusen, North Rhine-Westphalia, Germany",
+		"latitude" : 51.0303,
+		"longitude" : 6.98432
+	},
+	{
+		"id" : 25,
+		"name" : "Oldenburg, Lower Saxony, Germany",
+		"latitude" : 53.14118,
+		"longitude" : 8.21467
+	},
+	{
+		"id" : 26,
+		"name" : "Mülheim an der Ruhr, North Rhine-Westphalia, Germany",
+		"latitude" : 51.43218,
+		"longitude" : 6.87967
+	},
+	{
+		"id" : 28,
+		"name" : "Hamm, North Rhine-Westphalia, Germany",
+		"latitude" : 51.68033,
+		"longitude" : 7.82089
+	},
+	{
+		"id" : 29,
+		"name" : "Hagen, North Rhine-Westphalia, Germany",
+		"latitude" : 51.36081,
+		"longitude" : 7.47168
+	},
+	{
+		"id" : 30,
+		"name" : "Erfurt, Thuringia, Germany",
+		"latitude" : 50.9787,
+		"longitude" : 11.03283
+	},
+	{
+		"id" : 31,
+		"name" : "Lübeck, Schleswig-Holstein, Germany",
+		"latitude" : 53.86893,
+		"longitude" : 10.68729
+	},
+	{
+		"id" : 32,
+		"name" : "Krefeld, North Rhine-Westphalia, Germany",
+		"latitude" : 51.33645,
+		"longitude" : 6.55381
+	},
+	{
+		"id" : 33,
+		"name" : "Magdeburg, Saxony-Anhalt, Germany",
+		"latitude" : 52.12773,
+		"longitude" : 11.62916
+	},
+	{
+		"id" : 34,
+		"name" : "Halle (Saale), Saxony-Anhalt, Germany",
+		"latitude" : 51.48158,
+		"longitude" : 11.97947
+	},
+	{
+		"id" : 35,
+		"name" : "Aachen, North Rhine-Westphalia, Germany",
+		"latitude" : 50.77664,
+		"longitude" : 6.08342
+	},
+	{
+		"id" : 36,
+		"name" : "Kiel, Schleswig-Holstein, Germany",
+		"latitude" : 54.32133,
+		"longitude" : 10.13489
+	},
+	{
+		"id" : 37,
+		"name" : "Chemnitz, Saxony, Germany",
+		"latitude" : 50.8357,
+		"longitude" : 12.92922
+	},
+	{
+		"id" : 38,
+		"name" : "Braunschweig, Lower Saxony, Germany",
+		"latitude" : 52.26594,
+		"longitude" : 10.52673
+	},
+	{
+		"id" : 39,
+		"name" : "Mönchengladbach, North Rhine-Westphalia, Germany",
+		"latitude" : 51.18539,
+		"longitude" : 6.44172
+	},
+	{
+		"id" : 40,
+		"name" : "Gelsenkirchen, North Rhine-Westphalia, Germany",
+		"latitude" : 51.50508,
+		"longitude" : 7.09654
+	},
+	{
+		"id" : 41,
+		"name" : "Mannheim, Baden-Württemberg, Germany",
+		"latitude" : 49.4891,
+		"longitude" : 8.46694
+	},
+	{
+		"id" : 42,
+		"name" : "Bonn, North Rhine-Westphalia, Germany",
+		"latitude" : 50.73438,
+		"longitude" : 7.09549
+	},
+	{
+		"id" : 43,
+		"name" : "Bielefeld, North Rhine-Westphalia, Germany",
+		"latitude" : 52.03333,
+		"longitude" : 8.53333
+	},
+	{
+		"id" : 44,
+		"name" : "Duisburg, North Rhine-Westphalia, Germany",
+		"latitude" : 51.43247,
+		"longitude" : 6.76516
+	},
+	{
+		"id" : 45,
+		"name" : "Essen, North Rhine-Westphalia, Germany",
+		"latitude" : 51.45657,
+		"longitude" : 7.01228
+	},
+	{
+		"id" : 46,
+		"name" : "Düsseldorf, North Rhine-Westphalia, Germany",
+		"latitude" : 51.22172,
+		"longitude" : 6.77616
+	},
+	{
+		"id" : 47,
+		"name" : "Stuttgart, Germany",
+		"latitude" : 48.78232,
+		"longitude" : 9.17702
+	},
+	{
+		"id" : 48,
+		"name" : "Cottbus, Brandenburg, Germany",
+		"latitude" : 51.75769,
+		"longitude" : 14.32888
+	},
+	{
+		"id" : 50,
+		"name" : "Oranienburg, Brandenburg, Germany",
+		"latitude" : 52.75577,
+		"longitude" : 13.24197
+	},
+	{
+		"id" : 51,
+		"name" : "Grimma, Saxony, Germany",
+		"latitude" : 51.23367,
+		"longitude" : 12.71959
+	},
+	{
+		"id" : 52,
+		"name" : "Tübingen, Baden-Württemberg, Germany",
+		"latitude" : 48.52266,
+		"longitude" : 9.05222
+	},
+	{
+		"id" : 53,
+		"name" : "Mainz, Rhineland-Palatinate, Germany",
+		"latitude" : 49.98419,
+		"longitude" : 8.2791
+	},
+	{
+		"id" : 54,
+		"name" : "Münster, North Rhine-Westphalia, Germany",
+		"latitude" : 51.96236,
+		"longitude" : 7.62571
+	},
+	{
+		"id" : 55,
+		"name" : "Cologne, North Rhine-Westphalia, Germany",
+		"latitude" : 50.93333,
+		"longitude" : 6.95
+	},
+	{
+		"id" : 56,
+		"name" : "Dresden, Germany",
+		"latitude" : 51.05089,
+		"longitude" : 13.73832
+	},
+	{
+		"id" : 57,
+		"name" : "Kassel, Hesse, Germany",
+		"latitude" : 51.31667,
+		"longitude" : 9.5
+	},
+	{
+		"id" : 59,
+		"name" : "Augsburg, Bavaria, Germany",
+		"latitude" : 48.37154,
+		"longitude" : 10.89851
+	},
+	{
+		"id" : 60,
+		"name" : "Cologne, Germany",
+		"latitude" : 50.93333,
+		"longitude" : 6.95
+	},
+	{
+		"id" : 61,
+		"name" : "Karlsruhe, Germany",
+		"latitude" : 49.00937,
+		"longitude" : 8.40444
+	},
+	{
+		"id" : 64,
+		"name" : "Weimar, Thuringia, Germany",
+		"latitude" : 50.9803,
+		"longitude" : 11.32903
+	},
+	{
+		"id" : 17,
+		"name" : "Fürth, Bavaria, Germany",
+		"latitude" : 49.47593,
+		"longitude" : 10.98856
+	},
+	{
+		"id" : 27,
+		"name" : "Saarbrücken, Saarland, Germany",
+		"latitude" : 49.23262,
+		"longitude" : 7.00982
+	},
+	{
+		"id" : 65,
+		"name" : "Gera, Thuringia, Germany",
+		"latitude" : 50.88029,
+		"longitude" : 12.08187
+	},
+	{
+		"id" : 66,
+		"name" : "Bremen, Germany",
+		"latitude" : 53.07582,
+		"longitude" : 8.80717
+	},
+	{
+		"id" : 69,
+		"name" : "Darmstadt, Germany",
+		"latitude" : 49.87167,
+		"longitude" : 8.65027
+	},
+	{
+		"id" : 71,
+		"name" : "Berlin, Germany",
+		"latitude" : 52.52437,
+		"longitude" : 13.41053
+	},
+	{
+		"id" : 73,
+		"name" : "Meissen, Germany",
+		"latitude" : 51.16158,
+		"longitude" : 13.4737
+	}
+]}
