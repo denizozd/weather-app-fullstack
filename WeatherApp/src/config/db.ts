@@ -5,6 +5,7 @@ import fs from "fs/promises";
 
 dotenv.config();
 
+//create database client
 const dbClient = new Client({
   host: process.env.PG_HOST,
   port: Number(process.env.PG_PORT),
@@ -46,7 +47,7 @@ const initDb = async () => {
     `);
     console.log("Table 'cities' created");
 
-    // Read the JSON file from src/data
+    // Read the JSON file from src/data/cities
     const filePath = path.resolve("src/data/cities.json");
     const data = JSON.parse(await fs.readFile(filePath, "utf8"));
 
@@ -65,7 +66,6 @@ const initDb = async () => {
   }
 };
 
-// Run the initialization script
 initDb();
 
 
